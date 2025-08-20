@@ -1,0 +1,328 @@
+Origin Input,Origin Exact,Origin Lat,Origin Lon,Destination Input,Destination Exact,Destination Lat,Destination Lon,Travel Mode,Distance,Duration,Google Maps URL
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,driving,"৫৩ মিনিট
+৪২.৬ কি.মি.
+রাজশাহী - ঢাকা মহাসড়ক/N6 এবং নাটোর - ঢাকা মহাসড়ক/রাজশাহী - ঢাকা মহাসড়ক/N6 হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",৪২.৬ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.3015683,89.0803224&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Doshtika, Noongola, Bogura Sadar, Bogura","Doshtika, Noongola, Bogura Sadar, Bogura",24.8946658,89.3497676,driving,"২ ঘণ্টা ১৬ মিনিট
+১০১ কি.মি.
+নাটোর রোড/বগুড়া - নাটর মহাসড়ক হয়ে
+Fastest route now due to traffic conditions
+বিশদ বিবরণ
+প্রিভিউ",১০১ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.8946658,89.3497676&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kuchbihar Road, Mahigong, Satmatha, Bottola, Mahiganj, Rangpur","Kuchbihar Road, Mahigong, Satmatha, Bottola, Mahiganj, Rangpur",25.7377679,89.2786684,driving,"৪ ঘণ্টা ৯ মিনিট
+২০০ কি.মি.
+নাটোর রোড/বগুড়া - নাটর মহাসড়ক এবং বগুড়া - রংপুর মহাসড়ক/N5 হয়ে
+Fastest route now due to traffic conditions
+বিশদ বিবরণ",২০০ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=25.7377679,89.2786684&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kumurpur (near Zosna filling station), Birganj, Dinajpur","Kumurpur (near Zosna filling station), Birganj, Dinajpur",25.7523959,88.6187427,driving,"৬ ঘণ্টা ১৬ মিনিট
+২৫৫ কি.মি.
+দিনাজপুর - গোবিন্দগঞ্জ মহাসড়ক/R585 হয়ে
+Best route now due to traffic conditions
+বিশদ বিবরণ",২৫৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=25.7523959,88.6187427&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Thikadar Para, Kale, Belgasha, Khalilgonj, Kurigram","Thikadar Para, Kale, Belgasha, Khalilgonj, Kurigram",25.8094859,89.6632214,driving,"৫ ঘণ্টা ২৬ মিনিট
+২৪২ কি.মি.
+নাটোর রোড/বগুড়া - নাটর মহাসড়ক এবং বগুড়া - রংপুর মহাসড়ক/N5 হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৪২ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=25.8094859,89.6632214&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Dhaka Road, Gas Field Chourasta, Shakhipur, Tangail","Dhaka Road, Gas Field Chourasta, Shakhipur, Tangail",23.9769591,90.5205076,driving,"৫ ঘণ্টা ৫ মিনিট
+২৩৩ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৩৩ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.9769591,90.5205076&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Digharkanda (Koborsthan Road), Amlitola, Mymensingh Sadar, Mymensingh","Digharkanda (Koborsthan Road), Amlitola, Mymensingh Sadar, Mymensingh",24.7486357,90.3926254,driving,"৫ ঘণ্টা ২ মিনিট
+২১৮ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২১৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.7486357,90.3926254&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kuchai, Kadamtoli, South Surma, Sylhet",Kadamtoli,24.8765767,91.8767523,driving,"১০ ঘণ্টা ১৩ মিনিট
+৪৩০ কি.মি.
+জাতির পিতা হযরত ইব্রাহিম (আঃ) এক্সপ্রেসওয়ে/ঢাকা-সিলেট মহাসড়ক/N2 হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৪৩০ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.8765767,91.8767523&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Word-01, College Road, Mirpur Bazar, Bahubal, Habiganj",বাহুবল কলেজ,24.3418899,91.5303604,driving,"৮ ঘণ্টা ২৮ মিনিট
+৩৫৫ কি.মি.
+জাতির পিতা হযরত ইব্রাহিম (আঃ) এক্সপ্রেসওয়ে/ঢাকা-সিলেট মহাসড়ক/N2 হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৫৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.3418899,91.5303604&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Daklapara, Kalakochua Bazar, Burichong, Cumilla","Daklapara, Kalakochua Bazar, Burichong, Cumilla",23.632367,91.047431,driving,"৭ ঘণ্টা ৩৫ মিনিট
+৩৪১ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৪১ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.632367,91.047431&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Dalalpur, Kunjerhat, Borhanuddin, Bhola","Dalalpur, Kunjerhat, Borhanuddin, Bhola",22.4798789,90.704098,driving,"১১ ঘণ্টা ১০ মিনিট
+৩৭৮ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+ এই রুটটিতে ফেরি আছে৷
+বিশদ বিবরণ",৩৭৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=22.4798789,90.704098&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Batiara, Marjal, Kataghat, Raipura, Narsingdi","Batiara, Marjal, Kataghat, Raipura, Narsingdi",23.9850141,90.7979271,driving,"৫ ঘণ্টা ৫১ মিনিট
+২৫৫ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৫৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.9850141,90.7979271&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Chaulia, Rupdia Bazar, Narendrapur, Jashore Sadar, Jashore","Chaulia, Rupdia Bazar, Narendrapur, Jashore Sadar, Jashore",42.0204923,40.2051567,driving,N/A,N/A,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=42.0204923,40.2051567&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Mulaid, Mawna Chouresta, Tangra, Sreepur, Gazipur","Mulaid, Mawna Chouresta, Tangra, Sreepur, Gazipur",24.1221898,90.4215035,driving,"৪ ঘণ্টা ৩৩ মিনিট
+২২৩ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route, the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২২৩ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.1221898,90.4215035&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Satia Cadet College, Babuganj, Barishal",বরিশাল ক্যাডেট কলেজ,22.778549,90.3055673,driving,"৭ ঘণ্টা ৩৯ মিনিট
+২৯৫ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৯৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=22.778549,90.3055673&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Brammankanda, Sreeangan, Kotwali, Faridpur","Brammankanda, Sreeangan, Kotwali, Faridpur",23.4960962,89.8967645,driving,"৫ ঘণ্টা ১৪ মিনিট
+১৯৫ কি.মি.
+R606 এবং Dhaka - Kushtia Hwy/Rajbari - Kushtia Hwy/R710 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৯৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.4960962,89.8967645&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Badarpur, Maokaran, Patuakhali Sadar, Patuakhali","Badarpur, Maokaran, Patuakhali Sadar, Patuakhali",22.3323374,90.3388633,driving,"৯ ঘণ্টা ১৪ মিনিট
+৩৫৫ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৫৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=22.3323374,90.3388633&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Masjidia Chowdhury Para, Mostafapur, Hadifakirhat, Mirsarai, Chattogram","Masjidia Chowdhury Para, Mostafapur, Hadifakirhat, Mirsarai, Chattogram",23.0507941,91.0968438,driving,"৮ ঘণ্টা ১৪ মিনিট
+৩৮০ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৮০ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.0507941,91.0968438&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Keranirdhal, Debottor, Atghoria, Pabna","Keranirdhal, Debottor, Atghoria, Pabna",24.0596238,89.6069722,driving,"২ ঘণ্টা ৫৭ মিনিট
+১৩৮ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 এবং N5 হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",১৩৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.0596238,89.6069722&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Mohamadpur (Munsipara), Birampur, Dinajpur","Mohamadpur (Munsipara), Birampur, Dinajpur",24.7207622,89.8513109,driving,"৩ ঘণ্টা ৪২ মিনিট
+১৬৮ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৬৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.7207622,89.8513109&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Uttor Jogannathpur, Mostafapur, Moulvibazar Sadar, Moulvibazar","Uttor Jogannathpur, Mostafapur, Moulvibazar Sadar, Moulvibazar",33.1513231,45.418119,driving,N/A,N/A,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=33.1513231,45.418119&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Julnas Pump, Joka, Phukhuria, Ghior, Manikganj","Julnas Pump, Joka, Phukhuria, Ghior, Manikganj",23.8960585,89.8712325,driving,"৪ ঘণ্টা ৪৬ মিনিট
+২০১ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২০১ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.8960585,89.8712325&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Merigopinathpur, Gopalganj Sadar, Gopalganj","Merigopinathpur, Gopalganj Sadar, Gopalganj",23.1063118,89.9077063,driving,"৬ ঘণ্টা ৪৬ মিনিট
+২৬৮ কি.মি.
+R606 হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৬৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.1063118,89.9077063&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Talukdar Bari, Khalishaduli, Baburhat, Chandpur Sadar, Chandpur","Talukdar Bari, Khalishaduli, Baburhat, Chandpur Sadar, Chandpur",23.5706774,90.4821573,driving,"৬ ঘণ্টা ৪২ মিনিট
+২৬৮ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৬৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.5706774,90.4821573&travelmode=driving"
+"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Chuknagor, Dumuria, Khulna",চুকনগর,22.8395017,89.2916071,driving,"৬ ঘণ্টা ২৩ মিনিট
+২২৫ কি.মি.
+N7 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২২৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=22.8395017,89.2916071&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Baneswar, Shibpur, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,driving,"৫৪ মিনিট
+৪২.৫ কি.মি.
+নাটোর - ঢাকা মহাসড়ক/রাজশাহী - ঢাকা মহাসড়ক/N6 এবং রাজশাহী - ঢাকা মহাসড়ক/N6 হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",৪২.৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.3780085,88.7627736&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Doshtika, Noongola, Bogura Sadar, Bogura","Doshtika, Noongola, Bogura Sadar, Bogura",24.8946658,89.3497676,driving,"২ ঘণ্টা
+৮৫.৬ কি.মি.
+নাটোর রোড/বগুড়া - নাটর মহাসড়ক হয়ে
+Fastest route now due to traffic conditions
+বিশদ বিবরণ",৮৫.৬ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.8946658,89.3497676&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Kuchbihar Road, Mahigong, Satmatha, Bottola, Mahiganj, Rangpur","Kuchbihar Road, Mahigong, Satmatha, Bottola, Mahiganj, Rangpur",25.7377679,89.2786684,driving,"৩ ঘণ্টা ৫২ মিনিট
+১৮৫ কি.মি.
+নাটোর রোড/বগুড়া - নাটর মহাসড়ক এবং বগুড়া - রংপুর মহাসড়ক/N5 হয়ে
+Fastest route now due to traffic conditions
+বিশদ বিবরণ",১৮৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=25.7377679,89.2786684&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Kumurpur (near Zosna filling station), Birganj, Dinajpur","Kumurpur (near Zosna filling station), Birganj, Dinajpur",25.7523959,88.6187427,driving,"৬ ঘণ্টা
+২৪০ কি.মি.
+দিনাজপুর - গোবিন্দগঞ্জ মহাসড়ক/R585 হয়ে
+Fastest route now due to traffic conditions
+বিশদ বিবরণ",২৪০ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=25.7523959,88.6187427&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Thikadar Para, Kale, Belgasha, Khalilgonj, Kurigram","Thikadar Para, Kale, Belgasha, Khalilgonj, Kurigram",25.8094859,89.6632214,driving,"৫ ঘণ্টা ১০ মিনিট
+২২৭ কি.মি.
+নাটোর রোড/বগুড়া - নাটর মহাসড়ক এবং বগুড়া - রংপুর মহাসড়ক/N5 হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ
+প্রিভিউ",২২৭ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=25.8094859,89.6632214&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Dhaka Road, Gas Field Chourasta, Shakhipur, Tangail","Dhaka Road, Gas Field Chourasta, Shakhipur, Tangail",23.9769591,90.5205076,driving,"৪ ঘণ্টা ৪ মিনিট
+১৯০ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 এবং ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৯০ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=23.9769591,90.5205076&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Digharkanda (Koborsthan Road), Amlitola, Mymensingh Sadar, Mymensingh","Digharkanda (Koborsthan Road), Amlitola, Mymensingh Sadar, Mymensingh",24.7486357,90.3926254,driving,"৪ ঘণ্টা ৩ মিনিট
+১৭৫ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৭৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.7486357,90.3926254&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Kuchai, Kadamtoli, South Surma, Sylhet",Kadamtoli,24.8765767,91.8767523,driving,"৯ ঘণ্টা ২১ মিনিট
+৩৮৮ কি.মি.
+জাতির পিতা হযরত ইব্রাহিম (আঃ) এক্সপ্রেসওয়ে/ঢাকা-সিলেট মহাসড়ক/N2 হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৮৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.8765767,91.8767523&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Word-01, College Road, Mirpur Bazar, Bahubal, Habiganj",বাহুবল কলেজ,24.3418899,91.5303604,driving,"৭ ঘণ্টা ৩৪ মিনিট
+৩১২ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক এবং জাতির পিতা হযরত ইব্রাহিম (আঃ) এক্সপ্রেসওয়ে/ঢাকা-সিলেট মহাসড়ক/N2 হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩১২ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.3418899,91.5303604&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Daklapara, Kalakochua Bazar, Burichong, Cumilla","Daklapara, Kalakochua Bazar, Burichong, Cumilla",23.632367,91.047431,driving,"৬ ঘণ্টা ৪৫ মিনিট
+২৯৯ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক এবং ঢাকা - চট্টগ্রাম মহাসড়ক হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৯৯ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=23.632367,91.047431&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Dalalpur, Kunjerhat, Borhanuddin, Bhola","Dalalpur, Kunjerhat, Borhanuddin, Bhola",22.4798789,90.704098,driving,"১০ ঘণ্টা ১৭ মিনিট
+৩৪৯ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+ এই রুটটিতে ফেরি আছে৷
+বিশদ বিবরণ",৩৪৯ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=22.4798789,90.704098&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Batiara, Marjal, Kataghat, Raipura, Narsingdi","Batiara, Marjal, Kataghat, Raipura, Narsingdi",23.9850141,90.7979271,driving,"৪ ঘণ্টা ৫৫ মিনিট
+২১২ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২১২ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=23.9850141,90.7979271&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Chaulia, Rupdia Bazar, Narendrapur, Jashore Sadar, Jashore","Chaulia, Rupdia Bazar, Narendrapur, Jashore Sadar, Jashore",42.0204923,40.2051567,driving,N/A,N/A,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=42.0204923,40.2051567&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Mulaid, Mawna Chouresta, Tangra, Sreepur, Gazipur","Mulaid, Mawna Chouresta, Tangra, Sreepur, Gazipur",24.1221898,90.4215035,driving,"৩ ঘণ্টা ৩৩ মিনিট
+১৮১ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 এবং ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route, the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৮১ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.1221898,90.4215035&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Satia Cadet College, Babuganj, Barishal",বরিশাল ক্যাডেট কলেজ,22.778549,90.3055673,driving,"৬ ঘণ্টা ৫১ মিনিট
+২৬৬ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৬৬ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=22.778549,90.3055673&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Brammankanda, Sreeangan, Kotwali, Faridpur","Brammankanda, Sreeangan, Kotwali, Faridpur",23.4960962,89.8967645,driving,"৪ ঘণ্টা ১৮ মিনিট
+১৬৭ কি.মি.
+Dhaka - Kushtia Hwy/Rajbari - Kushtia Hwy/R710 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৬৭ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=23.4960962,89.8967645&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Badarpur, Maokaran, Patuakhali Sadar, Patuakhali","Badarpur, Maokaran, Patuakhali Sadar, Patuakhali",22.3323374,90.3388633,driving,"৮ ঘণ্টা ৩১ মিনিট
+৩২৬ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩২৬ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=22.3323374,90.3388633&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Masjidia Chowdhury Para, Mostafapur, Hadifakirhat, Mirsarai, Chattogram","Masjidia Chowdhury Para, Mostafapur, Hadifakirhat, Mirsarai, Chattogram",23.0507941,91.0968438,driving,"৭ ঘণ্টা ২০ মিনিট
+৩৩৮ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৩৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=23.0507941,91.0968438&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Keranirdhal, Debottor, Atghoria, Pabna","Keranirdhal, Debottor, Atghoria, Pabna",24.0596238,89.6069722,driving,"২ ঘণ্টা ৬ মিনিট
+৯৫.১ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 এবং N5 হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",৯৫.১ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.0596238,89.6069722&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Mohamadpur (Munsipara), Birampur, Dinajpur","Mohamadpur (Munsipara), Birampur, Dinajpur",24.7207622,89.8513109,driving,"২ ঘণ্টা ৪৯ মিনিট
+১২৬ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ
+প্রিভিউ",১২৬ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=24.7207622,89.8513109&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Uttor Jogannathpur, Mostafapur, Moulvibazar Sadar, Moulvibazar","Uttor Jogannathpur, Mostafapur, Moulvibazar Sadar, Moulvibazar",33.1513231,45.418119,driving,N/A,N/A,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=33.1513231,45.418119&travelmode=driving"
+"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,"Julnas Pump, Joka, Phukhuria, Ghior, Manikganj","Julnas Pump, Joka, Phukhuria, Ghior, Manikganj",23.8960585,89.8712325,driving,"৩ ঘণ্টা ৫২ মিনিট
+১৫৯ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",১৫৯ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3015683,89.0803224&destination=23.8960585,89.8712325&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore","Kolahata, Kalikapur, Haroa, Bonpara, Boraigram, Natore",24.3015683,89.0803224,driving,"৫৪ মিনিট
+৪২.৬ কি.মি.
+রাজশাহী - ঢাকা মহাসড়ক/N6 এবং নাটোর - ঢাকা মহাসড়ক/রাজশাহী - ঢাকা মহাসড়ক/N6 হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",৪২.৬ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.3015683,89.0803224&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Doshtika, Noongola-5800, Bogura Sadar, Bogura","Doshtika, Noongola-5800, Bogura Sadar, Bogura",24.8557224,89.3616757,driving,"২ ঘণ্টা ১৩ মিনিট
+৯৩.৮ কি.মি.
+নাটোর রোড হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",৯৩.৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.8557224,89.3616757&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kuchbihar Road, Mahigong, Satmatha, Bottola, Mahiganj, Rangpur","Kuchbihar Road, Mahigong, Satmatha, Bottola, Mahiganj, Rangpur",25.7377679,89.2786684,driving,"৪ ঘণ্টা ১৩ মিনিট
+১৯৭ কি.মি.
+নাটোর রোড এবং বগুড়া - রংপুর মহাসড়ক/N5 হয়ে
+Fastest route, despite the usual traffic
+বিশদ বিবরণ",১৯৭ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=25.7377679,89.2786684&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kumurpur (near Zosna filling station), Birganj, Dinajpur","Kumurpur (near Zosna filling station), Birganj, Dinajpur",25.7523959,88.6187427,driving,"৬ ঘণ্টা ১৪ মিনিট
+২৩২ কি.মি.
+Rajshahi - Naogaon Hwy/R685 হয়ে
+Fastest route now due to traffic conditions
+বিশদ বিবরণ",২৩২ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=25.7523959,88.6187427&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Thikadar Para, Kale, Belgasha, Khalilgonj, Kurigram","Thikadar Para, Kale, Belgasha, Khalilgonj, Kurigram",25.8094859,89.6632214,driving,"৫ ঘণ্টা ২৯ মিনিট
+২৩৯ কি.মি.
+নাটোর রোড এবং বগুড়া - রংপুর মহাসড়ক/N5 হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৩৯ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=25.8094859,89.6632214&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Dhaka Road, Gas Field Chourasta, Shakhipur, Tangail","Dhaka Road, Gas Field Chourasta, Shakhipur, Tangail",23.9769591,90.5205076,driving,"৫ ঘণ্টা ১৩ মিনিট
+২৩৩ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৩৩ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.9769591,90.5205076&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Digharkanda (Koborsthan Road), Amlitola, Mymensingh Sadar, Mymensingh","Digharkanda (Koborsthan Road), Amlitola, Mymensingh Sadar, Mymensingh",24.7486357,90.3926254,driving,"৫ ঘণ্টা ১ মিনিট
+২১৮ কি.মি.
+ঢাকা - রাজশাহী মহাসড়ক/নাটোর - ঢাকা মহাসড়ক/N507 হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২১৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.7486357,90.3926254&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Kuchai, Kadamtoli-3100, South Surma, Sylhet",Kadamtoli,24.8765767,91.8767523,driving,"১০ ঘণ্টা ১৯ মিনিট
+৪৩০ কি.মি.
+জাতির পিতা হযরত ইব্রাহিম (আঃ) এক্সপ্রেসওয়ে/ঢাকা-সিলেট মহাসড়ক/N2 হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৪৩০ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.8765767,91.8767523&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Word-01, College Road, Mirpur Bazar, Bahubal, Habiganj",বাহুবল কলেজ,24.3418899,91.5303604,driving,"৮ ঘণ্টা ৩০ মিনিট
+৩৫৫ কি.মি.
+জাতির পিতা হযরত ইব্রাহিম (আঃ) এক্সপ্রেসওয়ে/ঢাকা-সিলেট মহাসড়ক/N2 হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৫৫ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=24.3418899,91.5303604&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Daklapara, Kalakochua Bazar, Burichong, Cumilla","Daklapara, Kalakochua Bazar, Burichong, Cumilla",23.632367,91.047431,driving,"৭ ঘণ্টা ৩৬ মিনিট
+৩৪১ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক হয়ে
+Fastest route, despite the usual traffic
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",৩৪১ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.632367,91.047431&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Dalalpur, Kunjerhat, Borhanuddin, Bhola","Dalalpur, Kunjerhat, Borhanuddin, Bhola",22.4798789,90.704098,driving,"১১ ঘণ্টা ৬ মিনিট
+৩৭৮ কি.মি.
+Faridpur-Barisal Highway/N8 হয়ে
+Fastest route now due to traffic conditions
+ এই রুটটিতে টোল আছে৷
+ এই রুটটিতে ফেরি আছে৷
+বিশদ বিবরণ",৩৭৮ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=22.4798789,90.704098&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Batiara, Marjal, Kataghat-1630, Raipura, Narsingdi","Batiara, Marjal, Kataghat-1630, Raipura, Narsingdi",23.9650227,90.7979751,driving,"৬ ঘণ্টা ৯ মিনিট
+২৫৯ কি.মি.
+ঢাকা - যমুনা সেতু মহাসড়ক/নাটোর - ঢাকা মহাসড়ক হয়ে
+Fastest route now, avoids road closure on জয়দেবপুর - টাঙ্গাইল - জামালপুর মহাসড়ক.
+ এই রুটটিতে টোল আছে৷
+বিশদ বিবরণ",২৫৯ কি.মি.,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=23.9650227,90.7979751&travelmode=driving"
+"Baneswar, Shibpur, Baneswar-6260, Puthia, Rajshahi",Shibpur Rd,24.3780085,88.7627736,"Chaulia, Rupdia Bazar, Narendrapur, Jashore Sadar, Jashore","Chaulia, Rupdia Bazar, Narendrapur, Jashore Sadar, Jashore",42.0204923,40.2051567,driving,N/A,N/A,"https://www.google.com/maps/dir/?api=1&origin=24.3780085,88.7627736&destination=42.0204923,40.2051567&travelmode=driving"
